@@ -1,0 +1,117 @@
+0000000000000000000000000000000000000000 ff8ec0ea96f4ad207105ace77e1a55f953d76b93 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1596661936 +0100	clone: from https://github.com/Coco-Neobank/App-Usage-Tracker.git
+ff8ec0ea96f4ad207105ace77e1a55f953d76b93 ad73cd4ab74016210304ba695a5e56b488e7c94a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1596801242 +0100	commit: UI Changes
+ad73cd4ab74016210304ba695a5e56b488e7c94a ad73cd4ab74016210304ba695a5e56b488e7c94a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1596801309 +0100	checkout: moving from master to Joshua's-Branch
+ad73cd4ab74016210304ba695a5e56b488e7c94a f52b6f2d0a4eefd7ab5887980e83d2d71fc328a6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1596994412 +0100	commit: Drawer, games
+f52b6f2d0a4eefd7ab5887980e83d2d71fc328a6 ad73cd4ab74016210304ba695a5e56b488e7c94a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597017661 +0100	reset: moving to ad73cd4ab74016210304ba695a5e56b488e7c94a
+ad73cd4ab74016210304ba695a5e56b488e7c94a 4fb26f45cd1993fe54f85f726c79869d310937c3 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597020252 +0100	commit: Drawer, games
+4fb26f45cd1993fe54f85f726c79869d310937c3 8265e700972ed16bcde39ed05062c5573958242d Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597148527 +0100	commit: App Usage improved
+8265e700972ed16bcde39ed05062c5573958242d 4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597323304 +0100	commit: Invites, Active games
+4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597323332 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597323374 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597326396 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597327064 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb 4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597356948 +0100	reset: moving to HEAD
+4d963c7dfca59d26a3c1dd74aad99a87c6fce8cb 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597356948 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597356979 +0100	checkout: moving from shruti's-branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597357033 +0100	checkout: moving from shruti's-branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597357281 +0100	checkout: moving from shruti's-branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 4a1a20d938d9408d1da56ef0044b8ca129759600 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597357303 +0100	checkout: moving from shruti's-branch to shruti's-branch
+4a1a20d938d9408d1da56ef0044b8ca129759600 c13468cd2e041cd5babbc34bdc2303a083a6177a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597358502 +0100	pull --progress origin: Fast-forward
+c13468cd2e041cd5babbc34bdc2303a083a6177a 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597358544 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597359104 +0100	reset: moving to HEAD
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 c13468cd2e041cd5babbc34bdc2303a083a6177a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597359104 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+c13468cd2e041cd5babbc34bdc2303a083a6177a 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597359217 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597417368 +0100	reset: moving to HEAD
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 c13468cd2e041cd5babbc34bdc2303a083a6177a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597417369 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+c13468cd2e041cd5babbc34bdc2303a083a6177a 0bf3980110dfda3f75082e783638dbac6bea2056 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597417463 +0100	pull --progress origin: Fast-forward
+0bf3980110dfda3f75082e783638dbac6bea2056 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597448269 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597448284 +0100	reset: moving to HEAD
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 0bf3980110dfda3f75082e783638dbac6bea2056 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597448285 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+0bf3980110dfda3f75082e783638dbac6bea2056 7440c87fc41039d0d60b24fb13259d3745e4aa02 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597458589 +0100	commit: Some changes
+7440c87fc41039d0d60b24fb13259d3745e4aa02 58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597458683 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+58a9b4116017f199c6d9cf59768a61e0ff5ca0f7 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597458694 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 7440c87fc41039d0d60b24fb13259d3745e4aa02 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597458715 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+7440c87fc41039d0d60b24fb13259d3745e4aa02 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597505172 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597736950 +0100	reset: moving to HEAD
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 7440c87fc41039d0d60b24fb13259d3745e4aa02 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597736950 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+7440c87fc41039d0d60b24fb13259d3745e4aa02 3207b6adb591f0ca0bb1355f5622c9af38b74eb7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597737006 +0100	pull --progress origin: Fast-forward
+3207b6adb591f0ca0bb1355f5622c9af38b74eb7 dd726fc15ac1ab39e3f1181af6e5defa2db057f4 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597743674 +0100	pull --progress origin: Fast-forward
+dd726fc15ac1ab39e3f1181af6e5defa2db057f4 4342c616b4cbe96103e07659257ea805e6611f3c Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597860901 +0100	pull --progress origin: Fast-forward
+4342c616b4cbe96103e07659257ea805e6611f3c e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597863779 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597867393 +0100	reset: moving to HEAD
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 4342c616b4cbe96103e07659257ea805e6611f3c Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597867393 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+4342c616b4cbe96103e07659257ea805e6611f3c e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597867411 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597867427 +0100	reset: moving to HEAD
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 4342c616b4cbe96103e07659257ea805e6611f3c Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597867428 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+4342c616b4cbe96103e07659257ea805e6611f3c 09ef623eacaddc0a48515d95a5c7fbda21cbf4c4 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597880576 +0100	commit: Create game, share game
+09ef623eacaddc0a48515d95a5c7fbda21cbf4c4 82b28ad3ac733de6a35c3801084ac0aa3ecc74b6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597957540 +0100	commit: Finished the create and share link changes.
+82b28ad3ac733de6a35c3801084ac0aa3ecc74b6 09ef623eacaddc0a48515d95a5c7fbda21cbf4c4 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597957572 +0100	reset: moving to 09ef623eacaddc0a48515d95a5c7fbda21cbf4c4
+09ef623eacaddc0a48515d95a5c7fbda21cbf4c4 0ee02e962fd1f6470ee629a4e7d9975d6d65c006 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1597957598 +0100	commit: Finished the create and share link changes.
+0ee02e962fd1f6470ee629a4e7d9975d6d65c006 72e3c8653376c392536b8c6702a0fc7b67bc7e50 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598273402 +0100	pull --progress origin: Fast-forward
+72e3c8653376c392536b8c6702a0fc7b67bc7e50 debb475de8646d4be3d70993ba0e20a8817a0dc0 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365029 +0100	commit: Time bug fixes
+debb475de8646d4be3d70993ba0e20a8817a0dc0 ad73cd4ab74016210304ba695a5e56b488e7c94a Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365050 +0100	checkout: moving from shruti's-branch to master
+ad73cd4ab74016210304ba695a5e56b488e7c94a debb475de8646d4be3d70993ba0e20a8817a0dc0 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365091 +0100	merge shruti's-branch: Fast-forward
+debb475de8646d4be3d70993ba0e20a8817a0dc0 debb475de8646d4be3d70993ba0e20a8817a0dc0 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365120 +0100	checkout: moving from master to shruti's-branch
+debb475de8646d4be3d70993ba0e20a8817a0dc0 e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365124 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+e0e547ff982caf8cd3e1aafb44b4fd13cbc65b43 df12fe9057fbae898190a7b44e719cd992bdb168 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598365139 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+df12fe9057fbae898190a7b44e719cd992bdb168 df12fe9057fbae898190a7b44e719cd992bdb168 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453209 +0100	reset: moving to HEAD
+df12fe9057fbae898190a7b44e719cd992bdb168 debb475de8646d4be3d70993ba0e20a8817a0dc0 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453210 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+debb475de8646d4be3d70993ba0e20a8817a0dc0 a68605ada46f4f714e3ba0567ff7666e1403c70e Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453259 +0100	pull --progress origin: Fast-forward
+a68605ada46f4f714e3ba0567ff7666e1403c70e df12fe9057fbae898190a7b44e719cd992bdb168 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453295 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+df12fe9057fbae898190a7b44e719cd992bdb168 a68605ada46f4f714e3ba0567ff7666e1403c70e Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453311 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+a68605ada46f4f714e3ba0567ff7666e1403c70e 95a885975f8a581d12f6c4ad48b5df794f7cbd72 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453937 +0100	commit: Changes to drawer, and applists
+95a885975f8a581d12f6c4ad48b5df794f7cbd72 df12fe9057fbae898190a7b44e719cd992bdb168 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453969 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+df12fe9057fbae898190a7b44e719cd992bdb168 eb1b6372629ce86d90ce7809c35fe5d10538df3e Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598453977 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+eb1b6372629ce86d90ce7809c35fe5d10538df3e debb475de8646d4be3d70993ba0e20a8817a0dc0 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598454001 +0100	checkout: moving from Joshua's-Branch to master
+debb475de8646d4be3d70993ba0e20a8817a0dc0 95a885975f8a581d12f6c4ad48b5df794f7cbd72 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598454012 +0100	merge shruti's-branch: Fast-forward
+95a885975f8a581d12f6c4ad48b5df794f7cbd72 eb1b6372629ce86d90ce7809c35fe5d10538df3e Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598454034 +0100	checkout: moving from master to Joshua's-Branch
+eb1b6372629ce86d90ce7809c35fe5d10538df3e 95a885975f8a581d12f6c4ad48b5df794f7cbd72 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598651418 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+95a885975f8a581d12f6c4ad48b5df794f7cbd72 e927273fe866710a2d90afb1aaa758d4741d52c7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598879516 +0100	pull --progress origin: Fast-forward
+e927273fe866710a2d90afb1aaa758d4741d52c7 fbadb6ab06e977f9fd996ab87b811abf145d04af Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598883754 +0100	commit: Update invitesitem.dart
+fbadb6ab06e977f9fd996ab87b811abf145d04af 4c082a6d835fd61763ed7c2e6d42a6d954c3cf24 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959399 +0100	commit: Name entry at main screen
+4c082a6d835fd61763ed7c2e6d42a6d954c3cf24 eb1b6372629ce86d90ce7809c35fe5d10538df3e Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959458 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+eb1b6372629ce86d90ce7809c35fe5d10538df3e c12703e825a63df33cc82bad98a59cf3b6713cb6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959470 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+c12703e825a63df33cc82bad98a59cf3b6713cb6 95a885975f8a581d12f6c4ad48b5df794f7cbd72 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959497 +0100	checkout: moving from Joshua's-Branch to master
+95a885975f8a581d12f6c4ad48b5df794f7cbd72 c12703e825a63df33cc82bad98a59cf3b6713cb6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959514 +0100	merge Joshua's-Branch: Fast-forward
+c12703e825a63df33cc82bad98a59cf3b6713cb6 4c082a6d835fd61763ed7c2e6d42a6d954c3cf24 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1598959547 +0100	checkout: moving from master to shruti's-branch
+4c082a6d835fd61763ed7c2e6d42a6d954c3cf24 c613a63eccd9a6d3ab38d2c8bcb307f560d72e88 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599145539 +0100	pull --progress origin: Fast-forward
+c613a63eccd9a6d3ab38d2c8bcb307f560d72e88 8f10c14486815b0720f2a886567606a2d75d36be Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599191735 +0100	commit: Mainscreen validations
+8f10c14486815b0720f2a886567606a2d75d36be 8f10c14486815b0720f2a886567606a2d75d36be Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599220961 +0100	reset: moving to HEAD
+8f10c14486815b0720f2a886567606a2d75d36be c12703e825a63df33cc82bad98a59cf3b6713cb6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599220963 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+c12703e825a63df33cc82bad98a59cf3b6713cb6 8f10c14486815b0720f2a886567606a2d75d36be Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599220971 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+8f10c14486815b0720f2a886567606a2d75d36be 2b0475736edba68d8517e520418b493433ea8ec6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599220978 +0100	pull --progress origin: Fast-forward
+2b0475736edba68d8517e520418b493433ea8ec6 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221780 +0100	commit: Mainscreen bug fixed
+1d8432a99622615447005160dd8194eda7f71f16 c12703e825a63df33cc82bad98a59cf3b6713cb6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221831 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+c12703e825a63df33cc82bad98a59cf3b6713cb6 40ef4a998d4d3ee4db20c4ade311dbce72a13366 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221842 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+40ef4a998d4d3ee4db20c4ade311dbce72a13366 c12703e825a63df33cc82bad98a59cf3b6713cb6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221864 +0100	checkout: moving from Joshua's-Branch to master
+c12703e825a63df33cc82bad98a59cf3b6713cb6 635849fa657b34ace272b93a0fb2bca9ee1a4c98 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221881 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+635849fa657b34ace272b93a0fb2bca9ee1a4c98 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599221919 +0100	checkout: moving from master to shruti's-branch
+1d8432a99622615447005160dd8194eda7f71f16 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226695 +0100	reset: moving to HEAD
+1d8432a99622615447005160dd8194eda7f71f16 40ef4a998d4d3ee4db20c4ade311dbce72a13366 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226697 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+40ef4a998d4d3ee4db20c4ade311dbce72a13366 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226712 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+1d8432a99622615447005160dd8194eda7f71f16 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226751 +0100	reset: moving to HEAD
+1d8432a99622615447005160dd8194eda7f71f16 635849fa657b34ace272b93a0fb2bca9ee1a4c98 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226752 +0100	checkout: moving from shruti's-branch to master
+635849fa657b34ace272b93a0fb2bca9ee1a4c98 1d8432a99622615447005160dd8194eda7f71f16 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599226770 +0100	checkout: moving from master to shruti's-branch
+1d8432a99622615447005160dd8194eda7f71f16 aad9fd29d8ee1bd2234f86aa3237b9d8f1768540 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599227395 +0100	pull --progress origin: Fast-forward
+aad9fd29d8ee1bd2234f86aa3237b9d8f1768540 c69725974dbe149babec3292ae20ffc924219c30 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599229874 +0100	commit: Some lil changes
+c69725974dbe149babec3292ae20ffc924219c30 40ef4a998d4d3ee4db20c4ade311dbce72a13366 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599229947 +0100	checkout: moving from shruti's-branch to Joshua's-Branch
+40ef4a998d4d3ee4db20c4ade311dbce72a13366 6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599229960 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599229996 +0100	branch: Reset to origin/Joshua's-Branch
+6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599229996 +0100	checkout: moving from Joshua's-Branch to Joshua's-Branch
+6ee50e5ecd5d7d75125683bf221ff2598a9f7ac7 c69725974dbe149babec3292ae20ffc924219c30 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599230010 +0100	checkout: moving from Joshua's-Branch to shruti's-branch
+c69725974dbe149babec3292ae20ffc924219c30 23307f9658423624432a6ac2f25f8dfb0215b35f Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599444739 +0100	commit: Some interactivity
+23307f9658423624432a6ac2f25f8dfb0215b35f cfe322144e72e8c40758ca7b7f9994613d1d37a6 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599491397 +0100	pull --progress origin: Fast-forward
+cfe322144e72e8c40758ca7b7f9994613d1d37a6 68996fa3fa8eadba27c0ce18e0009cc198eace07 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599491494 +0100	commit: Active games
+68996fa3fa8eadba27c0ce18e0009cc198eace07 15b508e68f3fcc09d3bb3a2e8052988c70316a58 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599539417 +0100	commit: Sent invites, games section
+15b508e68f3fcc09d3bb3a2e8052988c70316a58 355fceca950f7d85ab55bd1b462ee3083dd40b49 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599572789 +0100	pull --progress origin: Fast-forward
+355fceca950f7d85ab55bd1b462ee3083dd40b49 1781b1dbd7013695b49f7022e0714a4a0cfffeed Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599658519 +0100	pull --progress origin: Fast-forward
+1781b1dbd7013695b49f7022e0714a4a0cfffeed dcbb2cf19bbd7554b145b84765b730602446addc Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599665449 +0100	commit: Some validations, not yet finished
+dcbb2cf19bbd7554b145b84765b730602446addc 635849fa657b34ace272b93a0fb2bca9ee1a4c98 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599665507 +0100	checkout: moving from shruti's-branch to master
+635849fa657b34ace272b93a0fb2bca9ee1a4c98 4e0b4bb3899b4c167645bc68073ab545ea44c26f Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599665523 +0100	merge shruti's-branch: Merge made by the 'recursive' strategy.
+4e0b4bb3899b4c167645bc68073ab545ea44c26f 932a7fce0cbdce5317f2b7da9bab93302793ebb1 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599743516 +0100	commit: Few bug fixes
+932a7fce0cbdce5317f2b7da9bab93302793ebb1 dcbb2cf19bbd7554b145b84765b730602446addc Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599743572 +0100	checkout: moving from master to shruti's-branch
+dcbb2cf19bbd7554b145b84765b730602446addc 932a7fce0cbdce5317f2b7da9bab93302793ebb1 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599743612 +0100	merge master: Fast-forward
+932a7fce0cbdce5317f2b7da9bab93302793ebb1 ada27048375996780dab6ecd9705ea9335247a11 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1599832615 +0100	pull --progress origin: Fast-forward
+ada27048375996780dab6ecd9705ea9335247a11 31a704bf0f0e311742e9c3b2081954b209b4e548 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1600269110 +0100	commit: Leaderboard, Invitees Item.
+31a704bf0f0e311742e9c3b2081954b209b4e548 932a7fce0cbdce5317f2b7da9bab93302793ebb1 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1600269177 +0100	checkout: moving from shruti's-branch to master
+932a7fce0cbdce5317f2b7da9bab93302793ebb1 31a704bf0f0e311742e9c3b2081954b209b4e548 Emmanuel Joshua <emmanueljoshua145@gmail.com> 1600269187 +0100	merge shruti's-branch: Fast-forward
